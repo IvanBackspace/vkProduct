@@ -1,0 +1,4 @@
+
+start chrome --remote-debugging-port=9222
+
+cd C:\Program Files\Google\Chrome\Application
